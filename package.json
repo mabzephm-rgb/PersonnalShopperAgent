@@ -1,0 +1,42 @@
+{
+  "name": "fashion_weather_based_agent",
+  "version": "1.0.0",
+  "description": "Agent to be fashion all year round",
+  "keywords": [
+    "Agent",
+    "Fashion",
+    "AI",
+    "Weather"
+  ],
+  "homepage": "https://github.com/mabzephm-rgb/Fashion_weather_based_Agent#readme",
+  "bugs": {
+    "url": "https://github.com/mabzephm-rgb/Fashion_weather_based_Agent/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mabzephm-rgb/Fashion_weather_based_Agent.git"
+  },
+  "license": "ISC",
+  "author": "Mondestin POUNGA",
+  "type": "module",
+  "module": "esnext",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "test",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "@langchain/anthropic": "^1.0.0",
+    "@langchain/core": "^1.0.1",
+    "@langchain/google-genai": "^1.0.0",
+    "@langchain/langgraph": "^1.0.0",
+    "@langchain/openai": "^1.0.0",
+    "langchain": "^1.0.1",
+    "typescript": "^5.9.3",
+    "zod": "^4.1.12"
+  },
+  "devDependencies": {
+    "@types/node": "^24.9.1"
+  }
+}
