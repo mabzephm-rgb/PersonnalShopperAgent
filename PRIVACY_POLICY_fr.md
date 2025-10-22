@@ -1,5 +1,3 @@
-# Fashion_weather_based_Agent
-
 # 🛍️ Politique de confidentialité – PersonalShopper
 
 **Dernière mise à jour : 22 octobre 2025**
