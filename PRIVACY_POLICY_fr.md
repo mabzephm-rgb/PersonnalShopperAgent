@@ -88,4 +88,17 @@ Vous avez le droit de :
 ## 8. 🔁 Modifications de cette politique
 
 Nous pouvons mettre à jour cette politique de confidentialité à tout moment.  
-Les
+Les modifications seront publiées dans cette page avec une nouvelle date de “dernière mise à jour”.
+
+> Nous vous encourageons à consulter régulièrement cette page pour rester informé(e).
+
+---
+
+## 9. 📬 Contact
+
+Pour toute question concernant cette politique de confidentialité :  
+**📧 mondestin.pounga@gmail.com**
+
+---
+
+© 2025 PersonalShopper. Tous droits réservés.
