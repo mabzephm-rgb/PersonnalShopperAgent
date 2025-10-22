@@ -30,6 +30,6 @@ const agent = createAgent({
 
 console.log(
   await agent.invoke({
-    messages: [{ role: "user", content: "What's the weather in Tokyo?" }],
-  })
+    messages: [{ role: "user", content: "What's the capital of Japan?" }],
+  }).then((res) => res.messages[1]?.content)
 );
